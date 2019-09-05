@@ -8,5 +8,8 @@
   },
   "author": "Aaron Marais",
   "license": "ISC",
-  "homepage": "https://github.com/aaron-marais-tasks/task-14#readme"
+  "homepage": "https://github.com/aaron-marais-tasks/task-14#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
